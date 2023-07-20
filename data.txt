@@ -1,0 +1,7 @@
+Latitude: -13.29051, Longitude: 54.96296
+Latitude: 48.62279, Longitude: 73.32891
+Latitude: 11.93397, Longitude: -19.53134
+Latitude: 5.76910, Longitude: 171.87290
+Latitude: -61.97240, Longitude: -123.91449
+
+some random coordinates 
